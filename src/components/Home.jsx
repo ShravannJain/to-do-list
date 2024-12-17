@@ -50,7 +50,7 @@ export default function Home() {
                 <Box>
                     <Grid2 container spacing={2}>
                         <Grid2 size={{ xs: 12 }}>
-                            <Typography sx={{ textAlign: "center", fontWeight: "600", color: "orange", textTransform: "uppercase" }}>
+                            <Typography sx={{ textAlign: "center", fontWeight: "600", color: "pink", textTransform: "uppercase" }}>
                                 TO DO LIST
                             </Typography>
                         </Grid2>
