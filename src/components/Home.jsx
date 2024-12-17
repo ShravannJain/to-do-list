@@ -44,7 +44,8 @@ export default function Home() {
             height: "100vh",
             display: "flex",
             justifyContent: "center",
-            alignItems: "center"
+            alignItems: "center",
+            backgroundColor:"black"
         }}>
             <Paper sx={{ p: 4 }}>
                 <Box>
